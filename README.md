@@ -1,2 +1,2 @@
 # Combatforpeace
- 2d pixel game
+ 2d pixel rpg game
